@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background: radial-gradient(circle, rgba(211, 84, 0,1.0) 0%, rgb(85, 34, 1));
+}
+
+.header {
+    display: block;
+    width: 80%;
+    margin: 10px;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 100%;
+    font-size: 24pt;
+    background: #d35400;
+}
+
+.menu {
+    display: flex;
+    flex-flow: row;
+}
+
+.menu .btn {
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    background: #f39c12;
+}

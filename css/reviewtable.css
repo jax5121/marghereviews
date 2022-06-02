@@ -1,0 +1,25 @@
+.content {
+    width: 80%;
+}
+
+.reviewlist {
+    display: flex;
+}
+
+.reviewlist .reviewlist__column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 2px;
+    background: black;
+    align-items: center;
+}
+
+.reviewlist .reviewlist__column .review__item {
+    padding: 10px;
+    margin: 2px;
+    background: yellow;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+}

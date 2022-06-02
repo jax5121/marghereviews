@@ -1,0 +1,1 @@
+document.getElementById("1").innerHTML = loadPage('../html/preview.html');

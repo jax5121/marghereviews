@@ -1,0 +1,19 @@
+{
+  "name": "marghereviews",
+  "version": "1.0.0",
+  "description": "A website dedicated to reviewing margerita pizza",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jax5121/marghereviews.git"
+  },
+  "author": "James Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jax5121/marghereviews/issues"
+  },
+  "homepage": "https://github.com/jax5121/marghereviews#readme"
+}
